@@ -46,3 +46,6 @@ def p_params(p):
 def p_param(p):
     '''
     '''
+
+lex()
+yacc()
