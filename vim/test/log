@@ -1,0 +1,6 @@
+
+load content from .\log
+load content from .\run.sh
+"lolog search: redir" [New File]
+No matching autocommands
+['1 vim -c ''redir! > log'' -c ''LologLoad .'' -c ''LologAddView redir'' -c ''echo getline(1,"$")'' -c ''q!''']
